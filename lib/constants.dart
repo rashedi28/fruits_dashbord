@@ -1,0 +1,4 @@
+const kSupabaseUrl = 'https://kpjpyaegapznqyzicmtn.supabase.co';
+const kSupabaseKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtwanB5YWVnYXB6bnF5emljbXRuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDkxMTIxNSwiZXhwIjoyMDc2NDg3MjE1fQ.RmxzxZ8DsVH2S1jod4k9eznQ1ydgr5uvUDJoPSLZQFo';
+const kBucketName = 'fruits_images';
